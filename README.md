@@ -246,7 +246,8 @@ uk-bank-customer-analysis/
 - Dataset usage and redistribution are subject to the original source's license and terms.
 
 ## Author
+abdulmalikrahman
 
-**https://github.com/abdullmalikrahman**
+**Github: https://github.com/abdullmalikrahman**
 
 Data Analytics Portfolio Project
