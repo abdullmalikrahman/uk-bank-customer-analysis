@@ -247,6 +247,6 @@ uk-bank-customer-analysis/
 
 ## Author
 
-**[https://github.com/abdullmalikrahman]**
+**https://github.com/abdullmalikrahman**
 
 Data Analytics Portfolio Project
